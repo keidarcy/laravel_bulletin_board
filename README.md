@@ -1,1 +1,2 @@
-# laravel_bulletin_board
+# Bulletin Board Project
+Laravel Practicing
